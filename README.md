@@ -1,27 +1,81 @@
 # currency-converter
- 
+
+## ⚠️ Prototype Notice
+
+This project is an early **beta prototype** created for study, experimentation, and concept validation.  
+It was **not developed for production use**, security hardening, scalability, or long-term maintenance.
+
+Its main purpose was to explore the idea of a currency converter, test API integration, and serve as a foundation for future concepts and projects.  
+Consider it a **proof of concept**, not a finished or production-ready application.
+
+---
+
 ## About
-This currency converter is designed to offer the conversion service of the main world currencies to our users.
-Euro, American Dollar, Bitcoin, Brazilian Real, Great British Pound, Argentine Peso, Canadian Dollar, Australian Dollar, and Japanese Yen are examples of currencies available for conversion.
 
-In this way, intuitively offers an excellent web tool with a simple-to-use interface and up-to-date values.
+This currency converter was designed to experiment with the conversion of major world currencies in a simple and intuitive way.
 
+Supported currencies include:
+- Euro (EUR)
+- US Dollar (USD)
+- Bitcoin (BTC)
+- Brazilian Real (BRL)
+- British Pound (GBP)
+- Argentine Peso (ARS)
+- Canadian Dollar (CAD)
+- Australian Dollar (AUD)
+- Japanese Yen (JPY)
+
+The focus of this prototype was:
+- Learning API consumption  
+- Testing conversion logic  
+- Exploring UI simplicity  
+- Validating the idea of a web-based converter  
+
+It is intentionally minimal and experimental.
+
+---
 
 ## Technical Data
-This application was developed using the following tools:
 
-**PHP programming language;
-Framework Laravel;
-CSS and Bootstrap style language;
-HTML markup language;
-open exchange rates API;
-JSON;**
+This prototype was built using:
 
+- **PHP**
+- **Laravel Framework**
+- **HTML**
+- **CSS & Bootstrap**
+- **Open Exchange Rates API**
+- **JSON**
 
-## Final considerations
+---
 
-Developer responsible for the project: **Rafael Simionato**.
+## Project Status
 
-*__"I hope this tool is useful and helps users to stay on top of updated currency quotes."__*
+🧪 **Experimental / Prototype**  
+🚫 **Not production-ready**  
+🧠 **Concept exploration only**
 
-This project is open source and available on the [Rafael Simionato GitHub repository:]( https://github.com/RafaelSimionato)
+There are no guarantees regarding:
+- Accuracy of exchange values  
+- API stability  
+- Security  
+- Performance  
+- Long-term maintenance  
+
+---
+
+## Final Considerations
+
+Developer: **Rafael Simionato**
+
+> “This project represents the first conceptual step toward experimenting with currency conversion tools.  
+> It exists mainly as a learning artifact and creative prototype.”
+
+This project is open source and available on the  
+[**Rafael Simionato GitHub Repository**](https://github.com/RafaelSimionato)
+
+---
+
+If you want, later you can add a small badge at the top like:
+
+```md
+![Status](https://img.shields.io/badge/status-prototype-orange)
